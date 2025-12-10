@@ -1,0 +1,7 @@
+pandas
+numpy
+regex
+scikit-learn
+streamlit
+deep-translator
+unidecode

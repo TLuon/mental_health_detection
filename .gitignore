@@ -1,0 +1,19 @@
+# Data and processed outputs
+/data/raw/
+/data/processed/
+/models/
+/messages/
+/resources/
+
+# Python env
+venv/
+__pycache__/
+*.pyc
+
+# IDE / system
+.vscode/
+*.ipynb_checkpoints
+.DS_Store
+
+# Streamlit runtime state
+.streamlit/
