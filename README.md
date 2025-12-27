@@ -85,5 +85,5 @@ khảo.
     + Trần Thanh Luôn       MSSV: 24110280
     + Bùi Phạm Huỳnh Hương  MSSV: 24133026
     + Hồ Nhật Minh:         MSSV: 24133039
-    + Nguyễn Quang Vinh 
+    + Nguyễn Quang Vinh     MSSV: 24133074
 -   Môn học: Lập trình Python
