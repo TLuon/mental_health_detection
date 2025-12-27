@@ -32,7 +32,7 @@ def translate_if_vietnamese(text: str) -> str:
         else:
             return text
     except Exception:
-        # Nếu detect lỗi → giữ nguyên
+        # Nếu detect lỗi -> giữ nguyên
         return text
 
 

@@ -1,7 +1,3 @@
-# src/utils.py
-"""
-Utility functions: save/load models, simple logging.
-"""
 
 import joblib
 import os

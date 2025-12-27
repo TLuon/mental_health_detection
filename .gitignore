@@ -1,8 +1,8 @@
 # Data and processed outputs
-/data/raw/
+data/raw/*
+!data/raw/suicide_detection.csv
 /data/processed/
 /models/
-/messages/
 /resources/
 
 # Python env
